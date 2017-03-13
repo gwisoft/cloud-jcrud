@@ -1,0 +1,2 @@
+1、http://localhost:9900/hystrix
+2、http://localhost:9900/turbine.stream?cluster=MAIN

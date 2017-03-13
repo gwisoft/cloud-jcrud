@@ -1,0 +1,4 @@
+1、zuul访问：http://127.0.0.1:8761/techouse/usersystem
+
+http://127.0.0.1:8761/techouse/usersystem/test/2
+http://127.0.0.1:8761/techouse/usersystem/hello/2
